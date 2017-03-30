@@ -1,0 +1,6 @@
+com\cxb\base\entity\UserRole.class
+com\cxb\base\entity\User.class
+com\cxb\base\dao\UserRoleMapper.class
+com\cxb\base\dao\UserMapper.class
+com\cxb\base\entity\Role.class
+com\cxb\base\dao\RoleMapper.class
